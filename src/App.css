@@ -1,0 +1,17 @@
+.task-li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
